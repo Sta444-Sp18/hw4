@@ -1,7 +1,7 @@
 ---
-title: "Homework 6"
+title: "Homework 4"
 author: Your Name Here
-date: Due 4/7/2017 by 11:59 pm
+date: Due 4/19/2018 by 11:59 pm
 output: 
   html_document:
     theme: cosmo
